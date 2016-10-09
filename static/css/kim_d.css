@@ -1,0 +1,70 @@
+body{
+	margin:auto;
+	overflow:hidden;
+	width:1360px;
+	overflow:auto;
+	background-color:grey;
+}
+
+.content {
+	position:relative;
+	background-color:green;
+	margin-top:3px;
+	margin-left:10%;
+	margin-right:10%;
+	min-height:980px;
+	height:auto;
+}
+
+.content .c_menu ul{
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	list-style-type:none;
+}
+
+.c_menu li{
+	margin:0 0 0 0;
+	float:left;
+	width:100px;
+}
+
+.content .daily_c1{
+	clear:left;
+	padding-top:20px;
+	text-indent:2em;
+	height:150px;
+	overflow:hidden;
+}
+
+.daily_c1 hr{
+	color:#00FFFF;
+	border:1px solid;
+    color:#00FFFF;
+	margin-top:0px;
+	width:95%;
+	text-align:center;
+}
+.daily_c1 p{
+	margin-top:0px;
+	margin-bottom:5px;
+}
+
+.content .daily_c2{
+    padding-top:20px;
+    text-indent:2em;
+	height:150px;
+	overflow:hidden;
+}
+
+.daily_c2 hr{
+    color:#00FFFF;
+    border:1px dotted;
+    color:#00FFFF;
+    margin-top:0px;
+    width:95%;
+    text-align:center;
+}
+.daily_c2 p{
+    margin-top:0px;
+    margin-bottom:5px;
+}

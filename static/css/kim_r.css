@@ -1,0 +1,21 @@
+body{
+	margin:auto;
+	overflow:auto;
+	width:1360px;
+	background-color:grey;
+}
+
+.content{
+	position:relative;
+	margin-top:3px;
+	margin-left:5%;
+	margin-right:5%;
+	height:980px;
+	overflow:hidden;
+	background:#AE57A4;
+	text-indent:2em;
+}
+
+.content .mybutton{
+	float:right;
+}

@@ -1,0 +1,76 @@
+body {
+	margin:auto;
+	width:1360px;
+	height:1200px;
+	overflow:auto;
+    background-color:grey;
+}
+
+.mycontent {
+	background-color:yellow;
+	margin-top:3px;
+	margin-left:5%;
+	margin-right:5%;
+	height:980px;
+}
+
+
+
+.mycontent .intro_content p{
+	text-indent:2em;
+}
+.resume_c h2{
+	margin:0 0 0 0;
+}
+.resume_c p{
+	width:60%;float:left;
+}
+
+.mycontent .intro_content .resume_c img{
+	width:38%;height:30%;float:right;
+	margin-right:1%;
+}
+.education_c{
+	margin-top:3px;clear:both;
+}
+.education h3{
+	margin:0 0 0 0;
+}
+
+
+.mycontent .content1 {
+	clear:both;float:left;width:33%;
+	text-align:center;
+}
+.mycontent .content1 img{
+	height:80%;width:80%;
+}
+
+.mycontent .content2 {
+    float:left;width:33%;
+	text-align:center;
+}
+.mycontent .content2 img{
+    height:80%;width:80%;
+}
+
+.mycontent .content3 {
+    float:left;width:33%;
+	text-align:center;
+}
+.mycontent .content3 img{
+    height:80%;width:80%;
+}
+
+.poem p{
+	 text-indent:2em;padding-top:28%;
+}
+
+.dibu {
+	text-align:center;
+}
+
+/*.mycontent img{
+	iwidth:33%;
+	height:33%;
+}*/
